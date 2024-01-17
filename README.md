@@ -1,7 +1,6 @@
 <h1 align="center">BOSTON HOUSING PRICE PREDICTION</h1>
 
 # Table of Contents
-- [Demo](#demo)
 - [Introduction](#introduction)
   - [About the Dataset](#about-the-dataset)
   - [Dataset Naming](#dataset-naming)
@@ -10,7 +9,6 @@
     - [Usage](#usage)
     - [Number of Cases](#number-of-cases)
     - [Variables](#variables)
-- [Motivation](#motivation)
 - [Project Explanation](#project-explanation)
   - [Data Collection](#data-collection)
   - [Feature Engineering](#feature-engineering)
@@ -20,9 +18,6 @@
   - [Model Performances](#model-performances)
   - [Building Optimum Model](#building-optimum-model)
 - [Conclusion](#conclusion)
-
-## Demo
-**App Link** - [Boston House Price Predictor](https://ashok-machine-learning-project.herokuapp.com/#boston)
 
 ![Boston Price Gif](../Demos/boston.gif)
 
@@ -64,12 +59,7 @@ There are 14 attributes in each case of the dataset. They are:
 ```
 - **Note**
     - Variable #14 seems to be censored at 50.00 (corresponding to a median price of 50,000 dollars); Censoring is suggested by the fact that the highest median price of exactly 50,000 dollars is reported in 16 cases, while 15 cases have prices between 40,000 dollars and 50,000 dollars, with prices rounded to the nearest hundred. Harrison and Rubinfeld do not mention any censoring.
-    
-## Motivation
-- This project was started as a motivation for learning Machine Learning Algorithms and to learn the different data preprocessing techniques such as Exploratory Data Analysis, Feature Engineering, Feature Selection, Feature Scaling and finally to build a machine learning model.
-
-- In this project we will predicts house price in boston city.
-
+    - 
 ## Project Explanation
 ### Data Collection
 - It was obtained from the StatLib archive [Data](http://lib.stat.cmu.edu/datasets/boston), and has been used extensively throughout the literature to benchmark algorithms. However, these comparisons were primarily done outside of Delve and are thus somewhat suspect. The dataset is small in size with only 506 cases.
