@@ -1,4 +1,4 @@
-<h1 align="center">BOSTON HOUSING PRICE PREDICTION</h1>
+BOSTON HOUSING PRICE PREDICTION
 
 # Table of Contents
 - [Introduction](#introduction)
