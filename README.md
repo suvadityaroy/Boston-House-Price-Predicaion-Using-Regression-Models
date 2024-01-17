@@ -386,9 +386,4 @@ Score                    :  0.9673793783596027
 ```
 
 ## Conclusion
-##### Finally we finishes the project. We have built a Random Forest Regressor Model which performs well with top 6 features and having the Training accuracy of 97.89% and Testing accuracy of 96.73%.
-
-##### Thank you Everyone for reading my notebook.
-
-##### If you love my work, kindly give a Star to my repository.
-##### Facing any issues, feel free to post your issues on my GitHub.
+#### Finally we finishes the project. We have built a Random Forest Regressor Model which performs well with top 6 features and having the Training accuracy of 97.89% and Testing accuracy of 96.73%.
