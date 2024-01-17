@@ -1,4 +1,4 @@
-BOSTON HOUSING PRICE PREDICTION
+# BOSTON HOUSING PRICE PREDICTION
 
 # Table of Contents
 - [Introduction](#introduction)
