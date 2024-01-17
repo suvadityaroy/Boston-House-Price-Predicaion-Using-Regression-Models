@@ -128,5 +128,3 @@ random_forest_regressor.fit(X_train, y_train)
 
 The project concludes with the development of a Random Forest Regressor Model that achieves a high training accuracy of 97.89% and testing accuracy of 96.73%. This model is built using the top 6 features identified through feature selection techniques.
 ```
-
-Feel free to further customize it as needed!
